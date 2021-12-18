@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LibvirtNetCoreWrapper": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Program Files (x86)\\VirtViewer v9.0-256\\bin"
+    }
+  }
+}
